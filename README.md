@@ -21,6 +21,6 @@ Some stacks that will be here:
 
 ## ✒️ Author (Student)
 
-* **Ezequiel Ferreira Cardoso** - [EzequielC-Dev](https://github.com/https://github.com/EzequielC-dev)
+* **Ezequiel Ferreira Cardoso** - [EzequielC-Dev](https://github.com/EzequielC-dev)
 
 ---

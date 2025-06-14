@@ -5,9 +5,9 @@ Just a repository that I will put everything that I am studying by myself or at 
 ## 🚀 Getting Started
 
 It will be here:
-    * Front-end contents;
-    * Back-end contents;
-    * More soon...
+   * Front-end contents;
+   * Back-end contents;
+   * More soon...
 
 ## 🛠️ Stacks
 

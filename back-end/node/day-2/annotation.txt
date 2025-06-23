@@ -1,0 +1,12 @@
+npm init -y (é pra responder como yes todas as perguntas)
+
+index.js geralmente não é muito semântico, geralmente usamos na web
+
+aqui não temos acesso a API's do próprio browser (document por exemplo, ou ter acesso a algo do DOM)
+
+node --watch faz um restart no servidor, podemos usar o nodemon para isso
+
+rotas são caminhos de entrada
+
+cabeçalhos (req, res) => metadados (informações para que tanto o back-end ou o front saibam lidar com o que foi enviado)
+header tem a ver com a interpretação do que está sendo enviado

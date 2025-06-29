@@ -7,7 +7,7 @@ Just a repository that I will put everything that I am studying by myself or at 
 It will be here:
    * Front-end contents;
    * Back-end contents;
-   * More soon...
+   * Data contents;
 
 ## 🛠️ Stacks
 
@@ -17,7 +17,7 @@ Some stacks that will be here:
 * TypeScript
 * NodeJS
 * Express
-* Java
+* Phyton
 
 ## ✒️ Author (Student)
 

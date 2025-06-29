@@ -1,24 +1,18 @@
 const express = require("express");
 const app = express();
 const router = express.Router();
+const about = require("./about");
 
 router.get("/", (req, res) => {
   res.send("hello world!");
 });
 
-router.get("/about", (req, res) => {
-  res.send("I wanted more!");
-});
-
 app.use("/", router);
+app.use("/about", about);
 
 app.listen(8000, () => {
   console.log("Running: http://127.0.0.1:8000/");
 });
-
-// exports.area = (width) => {
-//   return width * width;
-// };
 
 module.exports = {
   area: (width) => {

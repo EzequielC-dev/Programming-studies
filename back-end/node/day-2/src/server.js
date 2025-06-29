@@ -3,7 +3,7 @@ import { stringify } from "querystring";
 
 const users = [];
 const server = http.createServer((req, res) => {
-  const method = req.mehod;
+  const method = req.method;
   const url = req.url;
 
   if ((method === "GET", url === "/users")) {

@@ -1,14 +1,6 @@
-# Day 1
+# Data Annotations
 
-There is no difference between a Data Scientist and a Data Analyst, is the same thing.
-Analytics: You will use specifics knowledges to analyse data and create good insights
-
-What is Data Analyse:
-
-- Know the process
-- Visualization
-- Extraction of insights
-- Select data and create analyse
+Welcome to my data annotations!!
 
 ## Tools:
 
@@ -27,3 +19,25 @@ Extract, Load, Transform
 
 Datalake:
 Is a centralized repository designed to store large amounts of raw, structured, semi-structured, and unstructured data
+
+# Day 1
+
+There is no difference between a Data Scientist and a Data Analyst, is the same thing.
+Analytics: You will use specifics knowledges to analyse data and create good insights
+
+What is Data Analyse:
+
+- Know the process
+- Visualization
+- Extraction of insights
+- Select data and create analyse
+
+# Day 2
+
+Today I learned about:
+
+- Scientific Method
+- Where the data came from
+- What is a big data
+- How to create a data driven mindset.
+- Concept of Machine Learning

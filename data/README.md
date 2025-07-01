@@ -37,4 +37,9 @@ Today I learned about:
 
 # Day 3
 
+Today I learned about:
+
 - Target Case example
+- Data Driven Business Strategy
+- Metrics and KPIs
+- Nerdy Nuts case

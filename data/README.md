@@ -43,3 +43,11 @@ Today I learned about:
 - Data Driven Business Strategy
 - Metrics and KPIs
 - Nerdy Nuts case
+
+# Day 4 
+
+Today I learned about: 
+
+- common metric equations
+- full funel
+- realiable fonts for a research based on data

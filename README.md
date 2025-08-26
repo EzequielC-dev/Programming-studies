@@ -17,7 +17,7 @@ Some stacks that will be here:
 * TypeScript
 * NodeJS
 * Express
-* Phyton
+* Python
 
 ## ✒️ Author (Student)
 

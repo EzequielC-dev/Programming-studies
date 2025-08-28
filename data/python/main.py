@@ -9,9 +9,10 @@
 # import operators.unarios
 # import operators.aritmeticos
 # import operators.relacionais
-
-
 # import operators.atribuicao
 # from operators import logicos
+# import operators.ternario
 
-import operators.ternario
+# import controle.se
+# import controle.se2
+from controle import for_1
